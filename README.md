@@ -1,4 +1,4 @@
-Webscraping-with-R
+Webscraping with R
 
 Webscraping with R software involves extracting data and information from webpages using code written in the R programming language. The process involves sending HTTP or HTTPS requests from R to the webpage(s) of interest, then using the information returned to extract relevant data.
 
